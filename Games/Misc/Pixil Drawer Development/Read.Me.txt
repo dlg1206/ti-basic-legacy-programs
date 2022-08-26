@@ -1,0 +1,30 @@
+   ___  _  ____      ___  ___  ___ _      __  _________
+  / _ \| |/_/ / ____/ _ \/ _ \/ _ | | /| / / / ___/ __/
+ / ___/>  </ /_/___/ // / , _/ __ | |/ |/ / / /__/ _/  
+/_/  /_/|_/____/  /____/_/|_/_/ |_|__/|__/  \___/___/  
+*Thank you for downloading PXL-DRAW CE v1.0 for the TI-84 CE!*
+
+
+    	PXL-DRAW CE allows you to draw characters, sprites, or just pixel art without squinting at the screen. You can easily set your grid size (min: 2x2, max: 23x24), switch between colors, and draw and delete pixels without any issue. Watch your drawing as a real-time scale model also draws next to your grid. PXL-DRAW CE quickly converts your drawing into one of 3 local list saves, which can easily be accessed and used by a user in their game or other projects!
+    
+	If you do use this program to create sprites or elements for your game, please cite PXL-DRAW CE somewhere within your program with the following:
+
+[Whatever was created using the program, ex. Spites/Elements] created using PXL-DRAW CE, by TI_CODER_84
+Download link:https://www.cemetech.net/programs/84pce/basic/graphics/PXLDRAWCE.zip
+
+Thank you in advance, I greatly appreciate it!
+
+I hope you enjoy and find either use or fun, or both, with this program! If you enjoyed it, consider leaving a rating and review, it helps immensely!
+
+-Luis
+
+[OTHER PROGRAMS]
+
+*Pokemon84 CE*
+A fully fledged Pokemon game for the TI 84 CE! Explore an massive overworld, catch over 35 pokemon, battle other trainers, and beat the final gym! After a year in development, Pokemon84 CE will certainly not disapoint!
+Link: https://www.cemetech.net/programs/84pce/basic/games/Pokemon84CE.zip
+
+*Simple+Math84 CE*
+An all in one math program contating a collection of useful Algebra, Trig, and Calc functions! Fast and easy to use, it's a convenient and handy program to have on hand!
+Link: https://www.cemetech.net/programs/84pce/basic/math/SimpleMath84CE2.6.zip
+

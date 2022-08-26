@@ -1,0 +1,156 @@
+=CHANGE LOG=
+
+1.0 (?/?/?)
+>Add Quadratic Roots Calculator
+>Add Distance Formula
+>Add Vertex Form
+>Add Center Radius Form
+>Add "Help" Menu
+	
+	1.1 (?/?/?)
+	>Update Help/Calculator interface
+		
+		1.1.1 (?/?/?)
+		>Add "Other" Menu added, include Discriminate, Clear Graph, Completing the Square 
+
+2.0 (2/8/18) "Streamline Update"
+>Fraction/Decimal Answer Types
+>Interface/Code Overhaul
+>Nature of Roots added to Discriminate Prgm
+	
+	2.1 (2/14/18)(3.75kB)
+	>"Exp Funct Through 2 pts." added (Exponential Regression)
+	>Change "Quadratic Formula" to "Quadratic Roots" in Menu
+	>Change "Center Radius Formula" to "Center Radius Form" in Menu
+	>Remove "Nothing Helpful" from "Help" Menu
+	>Remove Update log from from "Help" Menu
+	>Add the Current Size to (Help)About
+		
+		2.1.1 (3/18/18)
+		>Update "Distance Formula" interface
+		
+		2.1.2 (3/21/18)
+		>Condense code, add ':'
+		>Update "Substituting Values", "Error: / by 0", "Archive" appearance in "Help" Menu
+	
+	2.2 (3/25/18) "Circles Update"
+	>Add "Circle Details" to Menu
+	 -Convert angle to rad/rad to angle
+	 -Find Coterminal/Reference angle
+	>Move "Other" Menu
+		
+		2.2.1 (3/27/18)(5.15kB)
+		>Fix always positive answers for "Circle Details"
+		>Fix 'Calculation Fails' for "Circle Details"
+		>Add Title Card with animation
+		>Renamed prgm from Algebra Programs (ALGPRGMS) to Simple-Math Programs (SMPLEMTH)
+		>Replace "Algebra Programs" title in main menu with "Simple-Math Programs"
+		>Add intro toggle in "Options" Menu
+		>Change "Other Helpful Programs" in "Other" Menu to separate "Misc. Mini Programs" in Main Menu
+		>Only Archive Q/H if true
+		>Optimize "Vertex Form"/Fix 'A>1/A<1 Error'
+		
+		2.2.2 (3/29/18)
+		>Fix always positive radians in "Circle Details"
+		>Organize Labels
+		>Add For( Loops
+		
+		2.2.3 (4/1/18)
+		>Optimize code
+		>Add "Screensaver" to Other
+		
+		2.2.4 (4/13/18)
+		>Change prgm name from SMPLEMTH to A1SMPMTH
+		>Slow opening animation speed
+		>Fix "Discriminate" missing answer/explanation bug
+	
+	2.4 (5/20/18)(5.68kB)
+	>Add "System of Equations" to main Menu
+	>Change (Help)"Substituting the Value" to "Coefficient"
+	 -Explain Coefficient scenarios
+	>Delete (Other)"Completing the Square"
+	>Fix "Vertex Form" (Remove Ax^2+Bx=C)
+	>Delete text line in (Help)Coefficient
+	>Remove version number from title card
+		
+		2.4.1 (5/29/18)(5.66kB)
+		>Shorten opening animation code
+		>Change "Options" choice stored in LOP, not as Q/H
+		
+		2.4.2 (6/19/18)(5.37kB) "Optimize Update"
+		>Overall code reductions, decrease size by 5.4%
+		>Delete (Other)Reset Graph and (Other)Screensaver from "Other"
+		>Delete "Other" from Menu, "Discriminate" moved to main menu
+		 -Streamline "Discriminate" 'If' statements
+		>Add LOP(3
+		 -If true, Str1 will not fill
+		 -When first opened it fills, but not after that
+		>Change 'Formula' to 'Roots' in 'Quadratic Formula Calculator'
+		>Removed '(Stored in Y)'/'(Stored in Z)' from "Quadratic Roots"
+		>Add center to "Center Radius Form" and vertex to "Vertex Form"
+		>Repeated words put into String 4 and sub(Str'd
+		
+		2.4.3 (6/19/18) (5.39 kB) 
+		>Change (Help/About)Archive to "Restoring After RAM Wipe"
+		 -Replace Archive information with Restoring information
+		
+		2.4.4 (6/20/18) (420 B) "Group Update"
+		>Change Str1 to Str9, Str2 to Str0, and Str 4 to Str8
+		>Remove contents from string from program
+		>Reduce size by 92.35%
+		>Introduce (SMCE) group: Allow for multiple variables/strings etc. stored in one place and stay in Archive memory
+		>Include: A1SMPMTH, LOP, Str0, Str9, Str8
+		>Total size: 5.47 kB
+		
+		2.4.5 (6/30/18)(5.08 kB)
+		>Fix Radian/Degree Coterminal angle bug
+		
+		2.4.6 (9/4/18)(5.41 kB)
+		>Shortened into animation code
+		>Eliminated Str0
+		>Reintroduced Str9 and Str8 into code, no longer separate
+		>Add text line to (Help/About)Prgm Restore
+		>Minor bug and interface adjustments
+	
+	2.5 "OS Update" (9/5/18)(5.36 kB)
+	>New commands introduced with 5.3.1 TI-OS
+	 -Include Wait
+	>Shorten Disp commands
+	>Additional interface adjustments
+	>Move System of Equations and Discriminate to Page 1
+		
+		2.5.1 "Algebra and Trig Update" (11/25/18) (6.13 kB)
+		>Official transfer from all math programs to just Algebra/Trig for future Simple+Math 84 Programs
+		>Change intro card to say "Algebra and Trigonometry Edition"
+		>Change program title to ATSMPMTH
+		>Add Side and Angle finder using Law of Sine/Cosine
+		>Change Group name to SMCEAT
+
+	2.6 "Undo Update" (1/31/19) (6.82 kB)
+	>Update "Center Radius Form" to "Stndrd Frm to Cntr Rdius"
+	 -Now Hyperbola/Ellipse with circle
+	 -Delete "B not equal to D" Error
+	>Change "Algebra and Trigonometry Edition" to "Mathematics Edition" on intro card
+	 -Replace "Alg/Trig" on menu with "Mathmtcs"
+	>Delete "Exp. Funct. Intrcpt 2 pt." (Exponetial Regression)
+	>Add 'Extraneous Check' into "Options"
+	 -Extraneous Check before "Quadratic Roots"
+	 -Reintroduce LOP(3
+	>Add "Domain" Error to Lbl 2
+	 -When value >1 or <-1 for "Law of Sin/Cos"
+	>Add "Radical Simplifer"
+	>Change title from "ATSMPMTH" back to "A1SMPMTH"
+	>Change Group Name from "SMCEAT" to "SMCEA1"
+
+		2.6.1 "Calculus Update" (2/27/20) (8.43 kB)
+		>Add "Riemann Sums"
+		 -Include Function/Point Sketch
+		>Add "Euler's Method"
+		>Fix "Law of Sine and Cosine" Syntax Errors
+		>Delete 'Mathematics Edition' from intro card and Menus
+		>Add 'Decimal' and 'Fraction' to "Options" > "Answer Type"
+		>Change "Answer Type" to "Current Format"
+		>Fix "Radical Simplifier" Error
+
+
+		
